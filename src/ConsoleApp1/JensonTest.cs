@@ -6,7 +6,7 @@ namespace ConsoleApp1
 {
 	class JensonTest
 	{
-		int GetNumber()
+		int GetNumber222()
 		{
 			return 1;
 		}
